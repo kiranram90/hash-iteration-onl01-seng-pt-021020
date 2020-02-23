@@ -13,7 +13,7 @@ passengers.each do |suite, passenger|
    end
 end
  
-passenger
+
  
  
 
