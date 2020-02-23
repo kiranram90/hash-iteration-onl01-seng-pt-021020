@@ -9,12 +9,11 @@
 def select_winner(passengers)
 passengers.each do |suite, passenger|
     if suite == :suite_a && passenger.start_with?("A")
-      passenger
-     end
+   end
    end
 end
  
-
+passenger
  
  
 
